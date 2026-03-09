@@ -1,11 +1,11 @@
 Use master;
 Go
 
--- Create the 'VincentTest' database
-Create Database VincentTest;
+-- Create the 'TitasTest' database
+Create Database TitasTest;
 Go
 
-Use VincentTest;
+Use TitasTest;
 Go
 
 
