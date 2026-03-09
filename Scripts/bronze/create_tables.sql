@@ -1,4 +1,4 @@
-Use VincentTest
+Use TitasTest
 
 CREATE TABLE [bronze].[crm_cust_info](
 	[cst_id] [int] NULL,
