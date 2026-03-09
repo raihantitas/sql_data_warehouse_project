@@ -44,7 +44,7 @@ GO
 CREATE TABLE [bronze].[erp_CUST_AZ12](
 	[CID] [nvarchar](50) NULL,
 	[BDATE] [date] NULL,
-	[GEN] [nvarchar](5) NULL
+	[GEN] [nvarchar](10) NULL
 ) ON [PRIMARY]
 GO
 
